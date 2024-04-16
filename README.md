@@ -55,7 +55,7 @@ Label:
 * Electrical energy output (EP): Listrik yang dihasilkan per jam 
 
 ### Perbandingan Klasifikasi
-![Perbandingan Akurasi antara ANN dan SVM](/dataset/perbandinganklasfikasi.jpg)
+![Perbandingan Akurasi antara ANN dan SVM](/dataset/perbandinganklasfikasi.png)
 
 
 
